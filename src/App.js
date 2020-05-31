@@ -53,7 +53,7 @@ function App() {
 					// flexDirection: 'row',
 					margin: 10,
 					padding: 10,
-					backgroundColor: '#bb86fc',
+					backgroundColor: '#7159ca',
 					borderRadius: 10,
 					justifyContent: 'center',
 					width: Width / 5 - 20,
